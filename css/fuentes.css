@@ -1,0 +1,50 @@
+.ul-BarraPrincipal{
+    background-color: black;
+    list-style: none;
+    color: white;
+}
+
+header{
+    background-color: #eeab2e;
+    color: white;
+}
+
+.ul-Menu{
+    list-style: none;
+    list-style-image: url('../img/HuellitaIndice.png');
+}
+
+.Banner{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    background-size: cover;
+}
+
+.FondoBlanco{
+    background-color: white;
+    color: black;
+    position: absolute;
+    padding: 1% 2%;
+    border-radius: 5px;
+    top: 50%;
+    left: 66%;
+}
+
+.Normal{
+    color: black;
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    transform: translate(50%, 50%);
+}
+
+.FondoNaranja{
+    background-color: #eeab2e;
+    color: white;
+    position: absolute;
+    padding: 1% 2%;
+    border-radius: 5px;
+    top: 70%;
+    left: 70%;
+}
